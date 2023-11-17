@@ -1,0 +1,9 @@
+/* Agrega tus estilos personalizados aquí */
+body {
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+.text-gold {
+    color: #ffd700 !important;
+}
